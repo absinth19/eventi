@@ -11,3 +11,5 @@ https://github.com/emaschi123/eventi/raw/refs/heads/main/events.m3u8
 
 24/7 Ita + Daily :
 https://github.com/emaschi123/eventi/raw/refs/heads/main/mergeita.m3u8
+
+https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/lista
