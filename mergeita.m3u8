@@ -5141,6 +5141,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium108/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium109/mono.m3u8
 
+#EXTINF:-1 tvg-id="585abefb-d181-2f77-6500-1423faebcd19" tvg-name="Starligue : Dunkerque vs Paris SG 02/16/25 - 17:00 (CET) beIN Sports 3 France" tvg-logo="https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Starligue : Dunkerque vs Paris SG 02/16/25 - 17:00 (CET) beIN Sports 3 France
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium118/mono.m3u8
+
 #EXTINF:-1 tvg-id="257f7595-cdfb-4db9-c5e7-8b23f4613f09" tvg-name="Norway Eliteserien : Elverum Handball vs. Bergen Handball 02/16/25 - 18:15 (CET) TV2 Sport 2 Norway" tvg-logo="https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Norway Eliteserien : Elverum Handball vs. Bergen Handball 02/16/25 - 18:15 (CET) TV2 Sport 2 Norway
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
